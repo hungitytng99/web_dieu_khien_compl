@@ -2,8 +2,7 @@
 Web_controller is a web site built on the framework of laravel. Web_controller is used to manage turning on and off devices.
 
 ## Guide web deployment on computers
-- Clone source code from github:
-```git clone https://github.com/hungitytng99/web_dieu_khien_compl.git```
+- Clone source code from github: ```git clone https://github.com/hungitytng99/web_dieu_khien_compl.git```
 - Run composer and npm to install the necessary packages in the project
 ```
 composer install
